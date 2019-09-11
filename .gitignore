@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+build/
+gradle/
+out/
+*.iml
+.*.swp
+gradlew
+gradlew.bat
+classes/
+tomcat.6699/
